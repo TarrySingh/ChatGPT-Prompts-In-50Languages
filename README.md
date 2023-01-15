@@ -427,6 +427,7 @@ OUTPUT
 >
 
 > A minha letra vai começar com:
+
 > Verse 1:
 Eu estou cansado de ouvir sobre IA \
 E como ela vai mudar o mundo de hoje \
