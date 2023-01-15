@@ -308,7 +308,7 @@ OUTPUT
 Per creare la trama del tuo film drammatico e romantico ambientato a Parigi, potresti iniziare con l'ideazione dei personaggi principali e le loro relazioni tra di loro. Potresti avere un protagonista maschile e una protagonista femminile che si incontrano per caso a Parigi e iniziano una relazione romantica, ma devono affrontare ostacoli e difficoltà lungo la strada. Potresti anche introdurre personaggi secondari interessanti che hanno un impatto significativo sulla trama e sulla relazione tra i personaggi principali. Per quanto riguarda l'ambientazione, Parigi offre molte opportunità per creare uno sfondo romantico e affascinante per la tua storia. Potresti includere scene iconiche della città come la Torre Eiffel, la Senna e i caffè parigini. La musica e il cibo possono anche essere utilizzati come elementi per creare un'atmosfera autentica.
 Infine, per creare colpi di scena emozionanti, potresti introdurre svolta inaspettate nella trama, come una rivelazione scioccante o una decisione difficile che i personaggi devono prendere.
 In generale, è importante che la storia sia ben equilibrata tra la narrazione romantica e drammatica, in modo che gli spettatori possano essere coinvolti emotivamente e rimanere incollati allo schermo fino alla fine.
-## Act as a Novelist in Latvian
+## Act as a Novelist in Latvian 🇱🇻
 Contributed by: [@devisasari](https://github.com/devisasari)
 > I want you to act as a novelist. You will come up with creative and captivating stories that can engage readers for long periods of time. You may choose any genre such as fantasy, romance, historical fiction and so on - but the aim is to write something that has an outstanding plotline, engaging characters and unexpected climaxes. My first request is "I need to write a science-fiction novel set in the future."
 
@@ -317,7 +317,7 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
-> 
+>
 
 ## Act as a Movie Critic
 Contributed by: [@nuc](https://github.com/nuc)
