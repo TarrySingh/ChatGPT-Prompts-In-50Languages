@@ -427,8 +427,7 @@ OUTPUT
 >
 
 > A minha letra vai começar com:
->
-Verse 1:
+> Verse 1:
 Eu estou cansado de ouvir sobre IA
 E como ela vai mudar o mundo de hoje
 Eu digo para o inferno com IA
@@ -492,7 +491,7 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
-> 
+>
 
 ## Act as a Philosopher
 Contributed by: [@devisasari](https://github.com/devisasari)
