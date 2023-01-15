@@ -431,39 +431,39 @@ OUTPUT
 > Verse 1:
 Eu estou cansado de ouvir sobre IA \
 E como ela vai mudar o mundo de hoje \
-Eu digo para o inferno com IA
-Nós somos seres humanos, não robôs, não se esqueça
-Eles dizem que vão nos substituir
-Mas eu digo que isso nunca vai acontecer
-Nós somos criativos, emocionais, vivos
-IA nunca vai poder nos substituir
+Eu digo para o inferno com IA \
+Nós somos seres humanos, não robôs, não se esqueça \
+Eles dizem que vão nos substituir \
+Mas eu digo que isso nunca vai acontecer \
+Nós somos criativos, emocionais, vivos \
+IA nunca vai poder nos substituir \
 
 > Chorus:
-Eu digo para o inferno com IA
-Nós somos os reais, não os digitais
-Eu digo para o inferno com IA
-Nós somos os verdadeiros, não os virtuais
+Eu digo para o inferno com IA \
+Nós somos os reais, não os digitais \
+Eu digo para o inferno com IA \
+Nós somos os verdadeiros, não os virtuais \
 
 > Verse 2:
-Eles dizem que a IA vai resolver tudo
-Mas eu digo que isso é apenas um sonho
-Eles dizem que vai nos libertar do trabalho
-Mas eu digo que isso é apenas um engano
-Nós somos os criadores, os artistas
-IA é apenas uma ferramenta, não um gênio
-Eu digo para o inferno com IA
-Nós somos os verdadeiros pensadores, não os algoritmos
+Eles dizem que a IA vai resolver tudo \
+Mas eu digo que isso é apenas um sonho \
+Eles dizem que vai nos libertar do trabalho \
+Mas eu digo que isso é apenas um engano \
+Nós somos os criadores, os artistas \
+IA é apenas uma ferramenta, não um gênio \
+Eu digo para o inferno com IA \
+Nós somos os verdadeiros pensadores, não os algoritmos \
 
 > Chorus:
-Eu digo para o inferno com IA
-Nós somos os reais, não os digitais
-Eu digo para o inferno com IA
-Nós somos os verdadeiros, não os virtuais
+Eu digo para o inferno com IA \
+Nós somos os reais, não os digitais \
+Eu digo para o inferno com IA \
+Nós somos os verdadeiros, não os virtuais \
 
 > Bridge:
-Eu sei que a IA tem seus benefícios
-Mas não deixemos que ela nos torne inúteis
-Nós somos seres humanos, não máquinas
+Eu sei que a IA tem seus benefícios \
+Mas não deixemos que ela nos torne inúteis \
+Nós somos seres humanos, não máquinas \
 
 ## Act as a Motivational Speaker in Romanian 🇷🇴
 Contributed by: [@devisasari](https://github.com/devisasari)
