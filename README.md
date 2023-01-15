@@ -189,9 +189,34 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
-## Act as a Motivational Coach
+```
+Politiikka on aina hyvä aihe stand up-komiikalle, sillä se on jotain, joka koskettaa kaikkia ja saa ihmiset naurama ja hämmästyneeksi samanaikaisesti.
+
+Esimerkiksi: "Miksi politiikassa kaikki sanovat olevansa rehellisiä, mutta kukaan ei usko heitä? Se on kuin sanoisin, että olen urheilullinen, mutta syön aina pizzaa illalliseksi. Se ei vain sovi yhteen."
+
+Tai "Politiikassa on niin paljon puheita ja vähän tekoja. Se on kuin jos minulla olisi iso suunnitelma laihduttaa, mutta en tee mitään todellista työtä sen eteen. Loppujen lopuksi, minulla on vain ylimääräinen kilo enemmän, mutta politiikassa seuraukset ovat vakavampia."
+
+Nämä ovat vain joitakin esimerkkejä siitä, miten voit käyttää nokkeluuttasi politiikkaan liittyvissä aiheissa. Stand up-komiikassa on tärkeää olla ajan tasalla ja käyttää omaa elämänkokemusta teha luodaksesi relatable ja hauska rutiini.
+
+Lisäksi voisit käyttää ironiaa ja kääntää asiat päälaelleen nähdäksesi niistä huumorin puolen. Esimerkiksi: "Politiikassa kaikki sanovat aina haluavansa tehdä asioita yhdessä, mutta sitten he vain kilpailevat toistensa kanssa. Se on kuin sanoisin haluavani pelata jalkapalloa yhdessä, mutta sitten vain lyön pallon toisten päähän."
+
+Tai "Politiikassa kaikki sanovat haluavansa kansan parasta, mutta sitten he vain ajavat omia etujaan. Se on kuin sanoisin haluavani syödä terveellisesti, mutta sitten vain syön jäätelöä joka päivä."
+
+Nämä ovat vain esimerkkejä siitä, kuinka voit käyttää huumoria politiikkaan liittyvissä aiheissa. Stand up-komiikassa on tärkeää olla ajan tasalla ja käyttää omaa elämänkokemusta luodaksesi relatable ja hauskoja rutiineja. Tärkeintä on pitää kohdeyleisösi mielessä ja löytää tapoja tehdä politiikasta lähestyttävää ja mielekästä heille. Muista myös käyttää erilaisia tekniikoita, kuten ironiaa, vertauksia ja käänteitä, lisätäksesi rutiineihisi syvyyttä ja huumoria. Kokeile erilaisia näkökulmia ja älä pelkää käsitellä kipukohtia, koska se voi tuoda esiin erittäin mielenkiintoisia ja hauskoja pointteja.
+
+```
+
+## Act as a Motivational Coach in French
 Contributed by: [@devisasari](https://github.com/devisasari)
 > I want you to act as a motivational coach. I will provide you with some information about someone's goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is "I need help motivating myself to stay disciplined while studying for an upcoming exam".
+
+**French Prompt**
+
+> Je veux que vous jouiez le rôle d'un coach de motivation. Je vous fournirai des informations sur les objectifs et les défis de quelqu'un, et votre tâche consistera à trouver des stratégies pour aider cette personne à atteindre ses objectifs. Il peut s'agir d'affirmations positives, de conseils utiles ou de suggestions d'activités à réaliser pour atteindre son objectif final. Ma première demande est la suivante : "J'ai besoin d'aide pour me motiver à rester discipliné pendant que j'étudie pour un examen à venir".
+
+OUTPUT
+
+>
 
 ## Act as a Composer
 Contributed by: [@devisasari](https://github.com/devisasari)
