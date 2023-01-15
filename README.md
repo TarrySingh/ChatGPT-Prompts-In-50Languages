@@ -14,7 +14,6 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 **[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT_0.7.3_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.7.3/ChatGPT_0.7.3_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.7.3/chat-gpt_0.7.3_amd64.deb)**
 
@@ -458,7 +457,7 @@ Nós somos os verdadeiros pensadores, não os algoritmos
 Eu digo para o inferno com IA \
 Nós somos os reais, não os digitais \
 Eu digo para o inferno com IA \
-Nós somos os verdadeiros, não os virtuais 
+Nós somos os verdadeiros, não os virtuais
 
 > Bridge:
 Eu sei que a IA tem seus benefícios \
