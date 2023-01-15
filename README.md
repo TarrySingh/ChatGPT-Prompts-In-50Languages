@@ -216,15 +216,65 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
+```
+Pour vous aider à rester discipliné pendant que vous étudiez pour un examen à venir, voici quelques stratégies que vous pourriez trouver utiles:
+
+1.  Fixez-vous des objectifs à court terme: Au lieu de vous concentrer uniquement sur l'examen final, fixez-vous des objectifs à court terme qui vous aideront à vous rapprocher de votre objectif final. Par exemple, fixez-vous l'objectif d'étudier 3 heures par jour pendant la semaine et 4 heures le week-end.
+
+2. Créez un plan d'étude: Établissez un plan d'étude qui détaille quand et comment vous allez étudier. Cela vous aidera à rester concentré et à maximiser votre temps d'étude.
+
+3. Trouvez une source de motivation: Trouvez une source de motivation qui vous aidera à rester concentré et motivé. Cela peut être un ami qui étudie avec vous, un prix que vous vous offrez après avoir réussi l'examen, etc.
+
+4. Faites des pauses régulièrement: Il est important de faire des pauses régulièrement pour vous détendre et vous remettre mentalement. Profitez de ces pauses pour faire de l'exercice, prendre une pause alimentaire ou simplement vous détendre.
+
+5. Croyez en vous-même : Il est important de croire en vous et en vos capacités. Rappelez-vous pourquoi vous avez choisi de passer cet examen et rappelez-vous que vous êtes capable de réussir.
+
+6. Faites une liste de vos réalisations: Faites une liste de toutes les réalisations que vous avez accomplies jusqu'à présent, cela vous aidera à vous rappeler que vous êtes capable de réussir.
+
+7. Trouvez une méthode d'étude qui vous convient : Tout le monde apprend différemment, trouvez une méthode d'étude qui vous convient le mieux, comme écouter de la musique ou utiliser des flashcards.
+
+8. Eliminez les distractions : Évitez les distractions pendant que vous étudiez, comme les réseaux sociaux ou la télévision.
+
+9. Soyez positif: Gardez une attitude positive en tout temps. Cela vous aidera à surmonter les obstacles et à atteindre vos objectifs.
+
+10. Faites appel à un mentor ou à un coach : Si vous avez besoin de plus d'aide pour vous motiver, faites appel à un mentor ou à un coach qui pourra vous aider à rester sur la bonne voie et à atteindre vos objectifs.
+
+```
+
+## Act as a Composer in Greek
+Contributed by: [@devisasari](https://github.com/devisasari)
+> I want you to act as a composer. I will provide the lyrics to a song and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. My first request is "I have written a poem named “Scary Mother-In-Law 😳
+” and need music to go with it."
+
+**Greek Prompt**
+
+> Θέλω να ενεργήσετε ως συνθέτης. Θα σας δώσω τους στίχους ενός τραγουδιού και εσείς θα δημιουργήσετε μουσική γι' αυτό. Αυτό θα μπορούσε να περιλαμβάνει τη χρήση διαφόρων οργάνων ή εργαλείων, όπως συνθεσάιζερ ή sampler, προκειμένου να δημιουργήσετε μελωδίες και αρμονίες που ζωντανεύουν τους στίχους. Το πρώτο μου αίτημα είναι: "Έχω γράψει ένα ποίημα με τίτλο "Τρομακτική πεθερά" και χρειάζομαι μουσική για να το συνοδεύσω".
+
+Output
 >
+Για να συνοδεύσετε το ποίημα "Τρομακτική πεθερά" με μουσική, εδώ είναι μερικά συστάσεις:
 
-## Act as a Composer
-Contributed by: [@devisasari](https://github.com/devisasari)
-> I want you to act as a composer. I will provide the lyrics to a song and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. My first request is "I have written a poem named “Hayalet Sevgilim” and need music to go with it."
+> Επιλέξτε ένα συγκεκριμένο είδος μουσικής για να συνοδεύσετε το ποίημα: Μπορεί να είναι συντηρητικό rock, μπλουζ ή ηλεκτρονική μουσική που να αντανακλά την αίσθηση τρόμου που αναπαράγεται στο ποίημα.
+Χρησιμοποιήστε έντονα ηχητικά εφέ για να δημιουργήσετε συναισθηματική πίεση στο ακροατή, όπως συντονισμένες συνθέσεις ή στραβά φωνητικά.
 
-## Act as a Debater
+> Προσθέστε στο σύνολο ηχητικών εφέ και στοιχεία που αναπαράγουν την αίσθηση τρόμου, όπως εντελώς στραβά νότες ή ασυνείδητα κολλημένα ηχητικά στοιχεία.
+
+> Προσθέστε κλήσεις και απαντήσεις στους στίχους για να δημιουργήσετε έναν ενεργητικό διάλογο μεταξύ του καλλιτέχνη και του ακροατή.
+
+> Προσθέστε διάφορες ταχύτητες και ρυθμούς στη μουσική για να δημιουργήσετε συναισθηματική περιοδικότητα στο τραγούδι.
+
+> Συνδυάστε όλα αυτά τα στοιχεία για να δημιουργήσετε ένα συνολικά εντυπωσιακό και συναισθηματικά πλούσιο τραγούδι που θα συνοδεύει τους στίχους του ποίηματός σας.
+
+
+## Act as a Debater in Hungarian
 Contributed by: [@devisasari](https://github.com/devisasari)
-> I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand. My first request is "I want an opinion piece about Deno."
+> I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand. My first request is "I want an opinion piece about AI and Cyber warfare ."
+
+**Hungarian Prompt**
+> Azt akarom, hogy vitapartnerként viselkedj. Megadok nektek néhány aktuális eseményekkel kapcsolatos témát, és a feladatotok az lesz, hogy a viták mindkét oldalát felkutassátok, mindkét oldal mellett érvényes érveket mutassatok be, cáfoljátok az ellentétes álláspontokat, és bizonyítékokra alapozva meggyőző következtetéseket vonjatok le. A célotok az, hogy segítsétek az embereket abban, hogy a vitából az adott témával kapcsolatos tudásuk és rálátásuk bővüljön. Az első kérésem a következő: "Szeretnék egy véleménycikket a mesterséges intelligenciáról és a kiberhadviselésről."
+
+Output
+>
 
 ## Act as a Debate Coach
 Contributed by: [@devisasari](https://github.com/devisasari)
