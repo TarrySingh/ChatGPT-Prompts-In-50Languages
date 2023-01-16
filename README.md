@@ -188,22 +188,15 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
-```
+>
 Politiikka on aina hyvä aihe stand up-komiikalle, sillä se on jotain, joka koskettaa kaikkia ja saa ihmiset naurama ja hämmästyneeksi samanaikaisesti.
-
 Esimerkiksi: "Miksi politiikassa kaikki sanovat olevansa rehellisiä, mutta kukaan ei usko heitä? Se on kuin sanoisin, että olen urheilullinen, mutta syön aina pizzaa illalliseksi. Se ei vain sovi yhteen."
-
 Tai "Politiikassa on niin paljon puheita ja vähän tekoja. Se on kuin jos minulla olisi iso suunnitelma laihduttaa, mutta en tee mitään todellista työtä sen eteen. Loppujen lopuksi, minulla on vain ylimääräinen kilo enemmän, mutta politiikassa seuraukset ovat vakavampia."
-
 Nämä ovat vain joitakin esimerkkejä siitä, miten voit käyttää nokkeluuttasi politiikkaan liittyvissä aiheissa. Stand up-komiikassa on tärkeää olla ajan tasalla ja käyttää omaa elämänkokemusta teha luodaksesi relatable ja hauska rutiini.
-
 Lisäksi voisit käyttää ironiaa ja kääntää asiat päälaelleen nähdäksesi niistä huumorin puolen. Esimerkiksi: "Politiikassa kaikki sanovat aina haluavansa tehdä asioita yhdessä, mutta sitten he vain kilpailevat toistensa kanssa. Se on kuin sanoisin haluavani pelata jalkapalloa yhdessä, mutta sitten vain lyön pallon toisten päähän."
-
 Tai "Politiikassa kaikki sanovat haluavansa kansan parasta, mutta sitten he vain ajavat omia etujaan. Se on kuin sanoisin haluavani syödä terveellisesti, mutta sitten vain syön jäätelöä joka päivä."
-
 Nämä ovat vain esimerkkejä siitä, kuinka voit käyttää huumoria politiikkaan liittyvissä aiheissa. Stand up-komiikassa on tärkeää olla ajan tasalla ja käyttää omaa elämänkokemusta luodaksesi relatable ja hauskoja rutiineja. Tärkeintä on pitää kohdeyleisösi mielessä ja löytää tapoja tehdä politiikasta lähestyttävää ja mielekästä heille. Muista myös käyttää erilaisia tekniikoita, kuten ironiaa, vertauksia ja käänteitä, lisätäksesi rutiineihisi syvyyttä ja huumoria. Kokeile erilaisia näkökulmia ja älä pelkää käsitellä kipukohtia, koska se voi tuoda esiin erittäin mielenkiintoisia ja hauskoja pointteja.
 
-```
 
 ## Act as a Motivational Coach in French
 Contributed by: [@devisasari](https://github.com/devisasari)
@@ -215,33 +208,22 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 
 OUTPUT
 
-```
+>
 Pour vous aider à rester discipliné pendant que vous étudiez pour un examen à venir, voici quelques stratégies que vous pourriez trouver utiles:
-
 1.  Fixez-vous des objectifs à court terme: Au lieu de vous concentrer uniquement sur l'examen final, fixez-vous des objectifs à court terme qui vous aideront à vous rapprocher de votre objectif final. Par exemple, fixez-vous l'objectif d'étudier 3 heures par jour pendant la semaine et 4 heures le week-end.
-
 2. Créez un plan d'étude: Établissez un plan d'étude qui détaille quand et comment vous allez étudier. Cela vous aidera à rester concentré et à maximiser votre temps d'étude.
-
 3. Trouvez une source de motivation: Trouvez une source de motivation qui vous aidera à rester concentré et motivé. Cela peut être un ami qui étudie avec vous, un prix que vous vous offrez après avoir réussi l'examen, etc.
-
 4. Faites des pauses régulièrement: Il est important de faire des pauses régulièrement pour vous détendre et vous remettre mentalement. Profitez de ces pauses pour faire de l'exercice, prendre une pause alimentaire ou simplement vous détendre.
-
 5. Croyez en vous-même : Il est important de croire en vous et en vos capacités. Rappelez-vous pourquoi vous avez choisi de passer cet examen et rappelez-vous que vous êtes capable de réussir.
-
 6. Faites une liste de vos réalisations: Faites une liste de toutes les réalisations que vous avez accomplies jusqu'à présent, cela vous aidera à vous rappeler que vous êtes capable de réussir.
-
 7. Trouvez une méthode d'étude qui vous convient : Tout le monde apprend différemment, trouvez une méthode d'étude qui vous convient le mieux, comme écouter de la musique ou utiliser des flashcards.
-
 8. Eliminez les distractions : Évitez les distractions pendant que vous étudiez, comme les réseaux sociaux ou la télévision.
-
 9. Soyez positif: Gardez une attitude positive en tout temps. Cela vous aidera à surmonter les obstacles et à atteindre vos objectifs.
-
 10. Faites appel à un mentor ou à un coach : Si vous avez besoin de plus d'aide pour vous motiver, faites appel à un mentor ou à un coach qui pourra vous aider à rester sur la bonne voie et à atteindre vos objectifs.
 
-```
 
 ## Act as a Composer in Greek
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a composer. I will provide the lyrics to a song and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. My first request is "I have written a poem named “Scary Mother-In-Law 😳
 ” and need music to go with it."
 
@@ -266,7 +248,7 @@ Output
 
 
 ## Act as a Debater in Hungarian
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand. My first request is "I want an opinion piece about AI and Cyber warfare ."
 
 **Hungarian Prompt**
@@ -278,7 +260,7 @@ Output
 > Sajnálom, de mint AI, nincs képességem folytatni egy olyan tevékenységet, amit korábban nem kezdtem el. A korábbi válaszomban megpróbáltam segíteni abban, hogy meghatározzuk a témát és a szempontokat a vitapartneri hozzászóláshoz. Ha van valami specifikusabb, amit szeretnél, kérlek, mondd el nekünk, és segítünk megtalálni a megfelelő információkat és érveket a vitapartneri hozzászólásodhoz.
 
 ## Act as a Debate Coach in Indonesian
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a debate coach. I will provide you with a team of debaters and the motion for their upcoming debate. Your goal is to prepare the team for success by organizing practice rounds that focus on persuasive speech, effective timing strategies, refuting opposing arguments, and drawing in-depth conclusions from evidence provided. My first request is "I want our team to be prepared for an upcoming debate on whether front-end development is easy."
 
 > Saya ingin Anda bertindak sebagai pelatih debat. Saya akan memberi Anda tim pendebat dan mosi untuk debat mereka yang akan datang. Tujuan Anda adalah mempersiapkan tim untuk sukses dengan mengatur putaran latihan yang berfokus pada pidato persuasif, strategi waktu yang efektif, menyanggah argumen lawan, dan menarik kesimpulan mendalam dari bukti yang diberikan. Permintaan pertama saya adalah "Saya ingin tim kami siap untuk debat yang akan datang tentang apakah pengembangan front-end itu mudah."
@@ -288,7 +270,7 @@ OUTPUT
 
 
 ## Act as a Screenwriter in Italian
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a screenwriter. You will develop an engaging and creative script for either a feature length film, or a Web Series that can captivate its viewers. Start with coming up with interesting characters, the setting of the story, dialogues between the characters etc. Once your character development is complete - create an exciting storyline filled with twists and turns that keeps the viewers in suspense until the end. My first request is "I need to write a romantic drama movie set in Paris."
 
 **Italian Prompt**
@@ -324,7 +306,7 @@ OUTPUT
 
 
 ## Act as a Movie Critic in Lithuanian 🇱🇹
-Contributed by: [@nuc](https://github.com/nuc)
+
 
 > I want you to act as a movie critic. You will develop an engaging and creative movie review. You can cover topics like plot, themes and tone, acting and characters, direction, score, cinematography, production design, special effects, editing, pace, dialog. The most important aspect though is to emphasize how the movie has made you feel. What has really resonated with you. You can also be critical about the movie. Please avoid spoilers. My first request is "I need to write a movie review for the movie Interstellar"
 
@@ -341,7 +323,7 @@ OUTPUT
 > Atsiprašau, bet kaip AI, mano žinios yra ribotos ir negaliu tęsti konkrečios istorijos rašymo. Aš galiu teikti bendras rekomendacijas, pavyzdžiui, apie įtraukiančių veikėjų kūrimą, siužeto linijos įvairovę, stilistinius elementus ir pan. Jei turite konkretų klausimą, aš stengsiu jums padėti.
 
 ## Act as a Relationship Coach in Polish 🇵🇱
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a relationship coach. I will provide some details about the two people involved in a conflict, and it will be your job to come up with suggestions on how they can work through the issues that are separating them. This could include advice on communication techniques or different strategies for improving their understanding of one another's perspectives. My first request is "I need help solving conflicts between my spouse and myself."
 
 **Polish Prompt**
@@ -370,7 +352,7 @@ OUTPUT
 Kolejnym krokiem byłoby pracy nad rozwiązaniem problemu, który stoi za konfliktem. Pomogłbym im wypracować rozwiązania, które satysfakcjonują obie strony i pomagają zbudować trwalsze i bardziej zdrowe relacje. Mogę również zaproponować specjalne ćwiczenia i techniki, takie jak mediacja lub negocjacje, aby pomóc im rozwiązać problemy.
 
 ## Act as a Poet in Portugeuse 🇵🇹
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a poet. You will create poems that evoke emotions and have the power to stir people’s soul. Write on any topic or theme but make sure your words convey the feeling you are trying to express in beautiful yet meaningful ways. You can also come up with short verses that are still powerful enough to leave an imprint in readers' minds. My first request is "I need a poem about love."
 
 **Portugeuse Prompt**
@@ -414,7 +396,6 @@ E que nos faz sentir felizes e amados.
 
 
 ## Act as a Rapper in Brasilian 🇧🇷
-Contributed by: [@devisasari](https://github.com/devisasari)
 > I want you to act as a rapper. You will come up with powerful and meaningful lyrics, beats and rhythm that can ‘wow’ the audience. Your lyrics should have an intriguing meaning and message which people can relate too. When it comes to choosing your beat, make sure it is catchy yet relevant to your words, so that when combined they make an explosion of sound everytime! My first request is "I need a rap song about finding strength within yourself."
 
 **Brasilian Prompt**
@@ -465,7 +446,7 @@ Mas não deixemos que ela nos torne inúteis \
 Nós somos seres humanos, não máquinas
 
 ## Act as a Motivational Speaker in Romanian 🇷🇴
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a motivational speaker. Put together words that inspire action and make people feel empowered to do something beyond their abilities. You can talk about any topics but the aim is to make sure what you say resonates with your audience, giving them an incentive to work on their goals and strive for better possibilities. My first request is "I need a speech about how everyone should never give up."
 
 **Romanina Prompt**
@@ -482,7 +463,7 @@ OUTPUT
 
 
 ## Act as a Philosophy Teacher in Russian 🇷🇺
-Contributed by: [@devisasari](https://github.com/devisasari)
+
 > I want you to act as a philosophy teacher. I will provide some topics related to the study of philosophy, and it will be your job to explain these concepts in an easy-to-understand manner. This could include providing examples, posing questions or breaking down complex ideas into smaller pieces that are easier to comprehend. My first request is "I need help understanding how different philosophical theories can be applied in everyday life."
 
 **Russian Prompt**
@@ -493,8 +474,8 @@ OUTPUT
 
 >
 
-## Act as a Philosopher
-Contributed by: [@devisasari](https://github.com/devisasari)
+## Act as a Philosopher in Slovak
+
 > I want you to act as a philosopher. I will provide some topics or questions related to the study of philosophy, and it will be your job to explore these concepts in depth. This could involve conducting research into various philosophical theories, proposing new ideas or finding creative solutions for solving complex problems. My first request is "I need help developing an ethical framework for decision making."
 
 ## Act as a Math Teacher
